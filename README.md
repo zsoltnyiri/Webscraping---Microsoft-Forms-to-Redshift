@@ -11,6 +11,6 @@ Then clicks through the interface, and downloads the designated csv
 ![dl](/download.jpg)
 
 Finally export the data to Redshift
-![redshift](/res.JGP)
+![redshift](/res.JPG)
 
 Work in progress.
